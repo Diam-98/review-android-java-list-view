@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">list_view_1</string>
+    <string-array name="countries">
+        <item>Afrique du Sud</item>
+        <item>Afghanistan</item>
+        <item>Allemagne</item>
+        <item>Angola</item>
+        <item>Bahamas</item>
+        <item>Belgique</item>
+        <item>Biélorussie</item>
+        <item>Canada</item>
+        <item>Comores</item>
+        <item>Égypte</item>
+        <item>Espagne</item>
+        <item>États-Unis</item>
+        <item>Gambie</item>
+        <item>Islande</item>
+        <item>Koweït</item>
+        <item>Luxembourg</item>
+    </string-array>
+</resources>
